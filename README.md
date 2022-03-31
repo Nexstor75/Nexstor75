@@ -1,0 +1,1 @@
+- 👋 Hi my name is Nexstor i'am a brazilian student of computer science and i'm storaging all the code that i use in in the college here.
